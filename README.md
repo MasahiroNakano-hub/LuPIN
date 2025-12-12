@@ -17,4 +17,5 @@
 ## Systems, softwares, and installation
 #### R softwares: Seurat (v.5.1.0), tidyverse (v.2.0.0), harmony (v.1.2.3), symphony (v.0.1.1), lme4 (v.1.1-36), clusterProfiler (v.4.14.0), etc.
 #### python softwares: cna (v.0.1.6), etc.
-#### Environments can be prepared by Anaconda.　See each code for more details.
+#### Environments can be prepared by Anaconda (~30 min).　
+#### See each code and demo for more details.
