@@ -5,8 +5,8 @@
 
 
 ## Overview:
-#### ・　To pinpoint new disease-relevant cell states in SLE and their detailed molecular profiles, we applied the deepest investigation strategy for single-cell data, cellular and molecular fine mapping, to the largest-scale multimodal SLE datasets, comprising ~2.1 million peripheral blood mononuclear cells from 232 SLE cases and 114 healthy controls.
-#### ・　Among 123 fine-grained cell states in 27 cell types, we discovered that previously uncharacterized cell states, such as GZMK+GZMH+HLA-DR+ effector memory CD8+ T cells and ARHGAP15+FOXO1+ T cells, expanded especially in severe SLE. #### ・Based on our new statistical model (ScQuaD), which efficiently dissects gene signatures reflecting cell state abundance (quantitative change) and single-cell-level gene dysregulation (qualitative change) within each conventional cell type, we found that key biological processes and genetic risks of SLE were linked to these expanded cell states. 
+#### ・To pinpoint new disease-relevant cell states in SLE and their detailed molecular profiles, we applied the deepest investigation strategy for single-cell data, cellular and molecular fine mapping, to the largest-scale multimodal SLE datasets, comprising ~2.1 million peripheral blood mononuclear cells from 232 SLE cases and 114 healthy controls.
+#### ・Among 123 fine-grained cell states in 27 cell types, we discovered that previously uncharacterized cell states, such as GZMK+GZMH+HLA-DR+ effector memory CD8+ T cells and ARHGAP15+FOXO1+ T cells, expanded especially in severe SLE. #### ・Based on our new statistical model (ScQuaD), which efficiently dissects gene signatures reflecting cell state abundance (quantitative change) and single-cell-level gene dysregulation (qualitative change) within each conventional cell type, we found that key biological processes and genetic risks of SLE were linked to these expanded cell states. 
 #### ・Finally, by combining multimodal in-silico analyses, CRISPR perturbations, and cellular function assays, we identified cell-state-specific transcriptional regulators, key surface proteins, T cell receptor features, and cis-regulatory elements.
 
 
