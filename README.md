@@ -9,6 +9,7 @@
 <img width="1267" height="674" alt="スクリーンショット 2025-12-06 16 24 00" src="https://github.com/user-attachments/assets/1ac0e1d9-b3d9-4910-8d66-7a543ad3ce70" />
 
 
-
-
-
+### Systems, softwares, and installation
+#### R softwares: Seurat (v.5.1.0), tidyverse (v.2.0.0), harmony (v.1.2.3), symphony (v.0.1.1), lme4 (v.1.1-36), clusterProfiler (v.4.14.0), etc.
+#### python softwares: cna (v.0.1.6), etc.
+#### Environments can be prepared by Anaconda.　See each code for more details.
